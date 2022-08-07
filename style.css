@@ -26,7 +26,8 @@ ul{
     gap:16px;
 }
 img{
-    max-width: 450px;  
+    width: 450px;
+    height:250px;  
 }
 .container{
     display:flex;
