@@ -5,11 +5,10 @@ li{
 a{
     text-decoration: none;
 }
-.left{
+.left {
     font-size: 24px;
     color:#f9faf8;
     display:flex;
- 
 }
 .header{
     background-color: #1F2937;
@@ -25,5 +24,38 @@ ul{
     margin:0;
     padding:0;
     gap:16px;
+}
+img{
+    max-width: 450px;  
+}
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #1F2937;
+    margin:0;
+    padding:8px 48px;
+    height:350px;
+}
+
+.section1 h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color:#f9faf8;
+    margin-bottom: 0;
+    width:350px;
+}
+.section1 p{
+    font-size:18px;
+    color:#E5E7EB;
+    width:400px;
+}
+.section1 button{
+    background-color: #3882f6;
+    font-size:16px;
+    color:#ffffff;
+    font-weight: bold;
+    padding: 8px 32px;
+    border-radius: 8px;
 }
 
