@@ -91,17 +91,15 @@ ul{
     font-size:36px;
     font-style: italic;
     color:#1F2937;
-    font-weight: lighter;
+    font-weight:lighter;
     background-color: #E5E7EB;
 }
-.container2 p{
-    max-width: 600px;
+.quote{
+    width: 700px;
 }
-.container2 p1{
-    
-    display:flex;
-    align-self:flex-end;
+.container2 p1{  
     font-weight: bold;
     font-style: normal;
-    font-size:30px;
+    font-size: 30px;
+    text-align: end;
 }
