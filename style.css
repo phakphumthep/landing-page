@@ -15,7 +15,7 @@ a{
     display:flex;
     justify-content: space-around;
 }
-.links , a{
+.links , a,.footer{
     font-size: 18px;
     color:#E5E7EB;
 }
@@ -134,4 +134,10 @@ ul{
  height:150px;
 display:flex;
 align-items: center;
+}
+.footer{
+    display:flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding:24px;
 }
